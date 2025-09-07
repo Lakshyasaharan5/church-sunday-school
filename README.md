@@ -27,11 +27,11 @@ The result is a modern, reliable, and scalable platform that makes Sunday School
 
 ## Features  
 
-- **Assessments** – Teachers can add, manage, and edit student assessment marks.  
-- **Authentication** – Secured with JWT-based login (access tokens).  
-- **Reports** – Auto-generated PDF reports (via backend).  
-- **Teacher Management** – Add, view, edit, and delete teacher records.  
-- **Student Management** – Add, view, edit, and delete student records.  
+- **Teacher Management** – Centralized assignment of teachers to classes with quick lookup and update of records across all churches.
+- **Student Management** – Unified student profiles with attendance history, performance records, and class transfers tracked digitally.
+- **Assessments** – Digital tracking of weekly student performance and centralized record history.
+- **Authentication** – Secure access control with JWT-based login, ensuring data integrity and role-based usage.
+- **Reports** – Automated PDF report generation for attendance and assessments, standardizing records across all 7 churches.
 
 ### PDF Reports  
 
