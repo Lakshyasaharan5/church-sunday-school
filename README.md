@@ -42,12 +42,3 @@ Example of a generated report:
 
 <img src="./Documentations/assets/pdf-report.png" width="70%">
 
-
-## Tech Stack  
-
-- **Backend:** Java Spring Boot  
-- **Frontend:** React
-- **Database:** MySql  
-- **Auth:** JWT Bearer Tokens  
-- **Deployment:** AWS (private now)
-
